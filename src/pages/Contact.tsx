@@ -482,7 +482,7 @@ export default function Contact() {
               </div>
               <iframe
                 title="Prithi Cuisine Location"
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2490.0!2d-0.1900!3d51.3940!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4876070be0a71591%3A0x7e3a4b4e78b0a64f!2s285+Ewell+Rd%2C+Surbiton+KT6+7AB!5e0!3m2!1sen!2suk!4v1700000000000!5m2!1sen!2suk"
+                src="https://maps.google.com/maps?q=Prithi+Cuisine,+285+Ewell+Rd,+Surbiton+KT6+7AB,+UK&t=&z=16&ie=UTF8&iwloc=B&output=embed"
                 width="100%"
                 height="280"
                 style={{ border: 0 }}
